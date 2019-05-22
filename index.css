@@ -197,9 +197,7 @@ figure {
 
 /*文字の位置固定*/
 
-.CAMPAIGN {
-    position: relative;
-}
+
 
 .CAMPAIGN p {
     position: absolute;
@@ -222,10 +220,10 @@ figure {
 /*テキストにボックスを付けた*/
 
 .text {
-    width: 800px;
+    width: 700px;
     height: 450px;
     margin: 0 auto;
-    padding: 30px 100px;
+    padding: 5px 100px;
     border: 1px solid black;
     background-color: #f5f5f5;
     line-height: 50px;
