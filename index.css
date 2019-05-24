@@ -136,40 +136,7 @@ figure {
     border: 2px solid red;
 }
 
-.hako {
-    height: 800px;
-    margin: 3em 0;
-    position: relative;
-    padding: 1em 5em;
-    border-top: solid 2px white;
-    border-bottom: solid 2px white;
 
-}
-
-.hako:before,
-.hako:after {
-    content: '';
-    position: absolute;
-    top: -30px;
-    width: px;
-    height: -webkit-calc(100% + 20px);
-    height: calc(100% + 20px);
-    background-color: white;
-}
-
-.hako:before {
-    left: 10px;
-}
-
-.hako:after {
-    right: 10px;
-}
-
-.hako p {
-    margin: 0;
-    padding: 0;
-    line-height: 70px;
-}
 
 .concept p {
     text-align: center;
