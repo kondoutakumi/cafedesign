@@ -3,8 +3,14 @@
     padding: 0;
 }
 body{
+<<<<<<< HEAD
 
     background-image: url("download-1.jpg");
+=======
+    background-color: #f5deb3;
+    background-image: url("back.jpg");
+
+>>>>>>> f08640d5660508ce06dd4da07869759c79e30987
 }
 main {
     width: 1200px;
