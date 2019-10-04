@@ -3,7 +3,10 @@
     padding: 0;
 }
 body{
+    width: 1000px;
     background-image: url("img/download-1.jpg");
+     margin-right: auto;
+    margin-left : auto;
 }
 main {
     width: 1201px;
@@ -293,10 +296,17 @@ p {
 }
 footer{
     color: black;
-    height: 200px;
+    height: 20px;
     background-color: white;
+    text-align: center;  
+    position: relative;
+}
+.footerlogo{
+display: inline-block;
     text-align: center;
-       
+    
+     
+    
 }
 
 .kozinfood{
