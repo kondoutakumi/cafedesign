@@ -4,10 +4,17 @@
 }
 
 body{
+<<<<<<< HEAD
     width: 100%;
     height: 2000px;
     background-color: wheat;
     margin-right: auto;
+=======
+    width: 1000px;
+    height: 1800px;
+    background-image: url("img/download-1.jpg");
+     margin-right: auto;
+>>>>>>> 6c6b49bae9f1e8d399cdda34d0e20290fb7d80e8
     margin-left : auto;
 }
 
@@ -307,7 +314,14 @@ border: 1px solid black;
 }
 footer p{
     color: black;
+<<<<<<< HEAD
     text-align: center;
+=======
+    height: 20px;
+    background-color: white;
+    text-align: center;  
+ 
+>>>>>>> 6c6b49bae9f1e8d399cdda34d0e20290fb7d80e8
 }
 .footerlogo{
 display: inline-block;
@@ -332,5 +346,8 @@ display: inline-block;
 .goodsfooter{
     padding: 200px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6c6b49bae9f1e8d399cdda34d0e20290fb7d80e8
    
